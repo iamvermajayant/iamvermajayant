@@ -15,7 +15,7 @@ Ever since I was a kid I was always a tech geek and I remember the Joy when I wr
 src="https://img.shields.io/twitter/follow/iamjayant_verma?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
 /></a>
 
-![](https://komarev.com/ghpvc/?username=iamvermajayant&style=flat-square)
+![](https://komarev.com/ghpvc/?username=iamvermajayant&style=for-the-badge&color=brightgreen)
 
 ### Skills
 
