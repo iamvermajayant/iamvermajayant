@@ -1,7 +1,7 @@
 Hi 👋 My name is Jayant Verma
 =============================
 
-<img align="center" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="420" height="350">
+ <img  height="250" width="500" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" align="center" />
 
 Web Developer and Designer
 --------------------------
