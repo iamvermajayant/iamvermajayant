@@ -1,8 +1,8 @@
 Hi 👋 My name is Jayant Verma
 =============================
-
+<p align="center">
  <img  height="250" width="500" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" align="center" />
-
+</p>
 Web Developer and Designer
 --------------------------
 
