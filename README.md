@@ -1,10 +1,14 @@
 Hi 👋 My name is Jayant Verma
 =============================
+
+
 <p align="center">
  <img  height="250" width="500" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" align="center" />
 </p>
-Web Developer and Designer
---------------------------
+
+
+<h3>Web Developer and Designer</h3>
+
 
 Ever since I was a kid I was always a tech geek and I remember the Joy when I wrote my first hello world since then I never looked back and started exploring new technologies. I was always passionate about Front end work. So I started with HTML, CSS, and Javascript, later I found my first Love Javascript ♥.
 
