@@ -54,9 +54,9 @@ src="https://img.shields.io/twitter/follow/iamjayant_verma?logo=twitter&style=fo
 
 <b>My GitHub Stats</b>
 
-[![Jayant verma stats](https://github-readme-stats.vercel.app/api?username=iamvermajayant&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Jayant verma stats](https://github-readme-stats.vercel.app/api?username=iamvermajayant&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="http://www.github.com/iamvermajayant"><img src="https://github-readme-stats.vercel.app/api?username=iamvermajayant&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="iamvermajayant's GitHub stats" /></a>
+<a href="http://www.github.com/iamvermajayant"><img src="https://github-readme-stats.vercel.app/api?username=iamvermajayant&count_private=true&show_icons=true&theme=dark" alt="iamvermajayant's GitHub stats" /></a>
 
 <a href="https://github.com/iamvermajayant" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamvermajayant&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
