@@ -41,7 +41,7 @@ src="https://img.shields.io/twitter/follow/iamjayant_verma?logo=twitter&style=fo
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
+
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
@@ -52,13 +52,9 @@ src="https://img.shields.io/twitter/follow/iamjayant_verma?logo=twitter&style=fo
 
 ### Badges
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/iamvermajayant"><img src="https://github-readme-stats.vercel.app/api?username=iamvermajayant&count_private=true&show_icons=true&theme=radical" alt="iamvermajayant's GitHub stats" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamvermajayant&langs_count=7&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/iamvermajayant" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamvermajayant&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
